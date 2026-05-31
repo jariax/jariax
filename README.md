@@ -10,14 +10,13 @@
 
  
 <h2>📜 Certifications:</h2>
-  - [Cisco Certified Network Associate (CCNA)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Cisco Certified Network Associate (CCNA)](https:certlink.com)
 
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/julio-arias-pabon-3b4a15388
 
 <!--
