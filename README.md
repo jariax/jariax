@@ -79,4 +79,4 @@ A few repos here are forks I use as working labs rather than original work: a Mi
 
 ## Get in touch
 
-I'm actively looking for **Cloud Engineer** and **Systems Engineer** roles, and I'm glad to walk through the architecture behind anything above.
+I'm actively looking for **Cloud Engineer** roles, and I'm glad to walk through the architecture behind anything above.
